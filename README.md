@@ -1,2 +1,2 @@
 # XMM-Ranging
-Python coded app to calculate XMM ranging
+App to calculate XMM ranging coded using Python and PyQt4 for the GUI 
